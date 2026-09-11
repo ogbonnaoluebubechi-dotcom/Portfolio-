@@ -27,7 +27,9 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 ### CEO Operations Dashboard 
 A Trello-based dashboard for organizing tasks, priorities, deadlines, checklists, and team coordination.
 ### Client Onboarding System 
-A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion 
+A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion.
+### Task Management System 
+Designed a management dashboard for an entrepreneur to help track Priorities, deadlines, task project and follow ups,
 ### Team Business Travel Coordination 
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication.
 ### Calendar Management & Integration 
