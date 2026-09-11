@@ -23,3 +23,6 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 - Zapier
 - Canva
 - Acuity Scheduling 
+## Featured Projects
+### CEO Operations Dashboard 
+A Trello-based dashboard for organizing tasks, priorities, deadlines, checklists, and team coordination.
