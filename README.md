@@ -10,6 +10,10 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 - Project Management 
 - Workflow Organisation 
 - Documentation
+- Online Research
+- Travel Planning & Coordination
+- Meeting Planning & Coordination 
+- Digital File Organization & Record Management 
 ## Tools Stack
 - Google Workspace
 - Trello
