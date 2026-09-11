@@ -11,3 +11,10 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 - Workflow Organisation 
 - Documentation
 ## Tools Stack
+- Google Workspace
+- Trello
+- Clickup
+- Monday.com
+- Asana
+- Zapier
+- Canva
