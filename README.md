@@ -1,4 +1,5 @@
-# Oluebubechi Maryglory Executive Virtual Assistant| Administrative Support 
+# Oluebubechi Maryglory
+Executive Virtual Assistant|Administrative Support 
 A motivated assistant who brings structure to work and help manage task workload 
 ## About Me 
 I am a detail-oriented Virtual Assistant with practical skills in administrative support, calendar management, data entry, project management, and workflow organization.
