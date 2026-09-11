@@ -3,11 +3,11 @@ A detailed oriented Virtual Assistant passionate about helping Founders stay org
 ## About Me 
 I am a detail-oriented Virtual Assistant with practical skills in administrative support, calendar management, data entry, project management, and workflow organization.
 ## Skills 
-Administrative Support 
-Calendar Management 
-Data Entry 
-Email Management
-Project Management 
-Workflow Organisation 
-Documentation
+- Administrative Support 
+- Calendar Management 
+- Data Entry 
+- Email Management
+- Project Management 
+- Workflow Organisation 
+- Documentation
 ## Tools Stack
