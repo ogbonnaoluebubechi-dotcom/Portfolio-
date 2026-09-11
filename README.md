@@ -32,3 +32,5 @@ A ClickUp workflow designed to organize client Onboarding form setup through por
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication.
 ### Calendar Management & Integration 
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
+### Workflow Automation using Zapier 
+Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries.
