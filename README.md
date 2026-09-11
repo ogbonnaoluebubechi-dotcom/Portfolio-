@@ -38,3 +38,4 @@ A ClickUp project for coordinating team business travel, including tasks, deadli
 A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
 ### Workflow Automation using Zapier 
 Built automated workflow connecting Google Forms, Google Sheets, Zapier, and Trello to organize customer inquiries.
+[View Project](https://drive.google.com/file/d/1Hn4dDEfaH6V_2FUXkKgdM1PeJojY42GM/view?usp=drivesdk)
