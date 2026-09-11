@@ -30,7 +30,7 @@ Built a Trello-based dashboard used for organizing tasks, priorities, deadlines,
 [View Project](https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
 ### Client Onboarding System 
 A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion.
-[View Project])https://drive.google.com/file/d/1sQbdoIQlJXtenzcwzOO2rXuS2MyV-5-S/view?usp=drivesdk)
+[View Project](https://drive.google.com/file/d/1sQbdoIQlJXtenzcwzOO2rXuS2MyV-5-S/view?usp=drivesdk)
 ### Task Management System 
 Designed a management dashboard for an entrepreneur to help track Priorities, deadlines, task project and follow ups,
 ### Team Business Travel Coordination 
