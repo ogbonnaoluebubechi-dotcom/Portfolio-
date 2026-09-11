@@ -30,3 +30,5 @@ A Trello-based dashboard for organizing tasks, priorities, deadlines, checklists
 A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion 
 ### Team Business Travel Coordination 
 A ClickUp project for coordinating team business travel, including tasks, deadlines, dependencies, documentation, and communication.
+### Calendar Management & Integration 
+A Google Calendar project demonstrating schedule management, reminders, buffer time, and calendar integration.
