@@ -22,3 +22,4 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 - Asana
 - Zapier
 - Canva
+- Acuity Scheduling 
