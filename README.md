@@ -26,8 +26,8 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 - Acuity Scheduling 
 ## Featured Projects
 ### CEO Operations Dashboard 
-A Trello-based dashboard for organizing tasks, priorities, deadlines, checklists, and team coordination.
-View Project https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk
+Built a Trello-based dashboard used for organizing tasks, priorities, deadlines, checklists, and team coordination.
+[View project] (https://drive.google.com/file/d/1y42Ujt7K-Zg-yY0VeFsMDe-KoqkRKn-C/view?usp=drivesdk)
 ### Client Onboarding System 
 A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion.
 ### Task Management System 
