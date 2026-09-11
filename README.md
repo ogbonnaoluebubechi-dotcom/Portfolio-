@@ -27,6 +27,13 @@ I am a detail-oriented Virtual Assistant with practical skills in administrative
 ## Featured Projects
 ### CEO Operations Dashboard 
 A Trello-based dashboard for organizing tasks, priorities, deadlines, checklists, and team coordination.
+[View Screenshot 1](./IMG-20260728-WA0007(1).jpg)
+
+[View Screenshot 2](./IMG-20260728-WA0008(1).jpg)
+
+[View Screenshot 3](./IMG-20260728-WA0011(1).jpg)
+
+[View Screenshot 4](./IMG-20260728-WA0012(1).jpg)
 ### Client Onboarding System 
 A ClickUp workflow designed to organize client Onboarding form setup through portfolio Completion.
 ### Task Management System 
