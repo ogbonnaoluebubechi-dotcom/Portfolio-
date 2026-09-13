@@ -5,7 +5,7 @@ This project demonstrate how i used Clickup to create a client Onboarding System
 ## Tool Used 
 ClickUp 
 ## Features demonstrated
--Task Organization 
--Checklist
--Due dates 
--Task Priorities
+Task Priorities 
+Task Organization 
+Due Dates
+Dependencies 
