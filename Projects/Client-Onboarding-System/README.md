@@ -1,5 +1,5 @@
 # Client Onboarding System 
-A Clickup based workflow designed to organize client Onboarding System.
+A ClickUp-based workflow designed to organize and streamline the client onboarding process.
 ## Project Overview 
 This project demonstrate how i used Clickup to create a client Onboarding System, assigned task to teammates and made sure tasks are done in a sequential manner.
 ## Tool Used 
