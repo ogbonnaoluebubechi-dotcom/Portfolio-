@@ -2,7 +2,8 @@
 Executive Virtual Assistant | Administrative Support 
 A motivated assistant who brings structure to work and help manage task workload 
 ## About Me 
-I am a detail-oriented Virtual Assistant with practical skills in administrative support, calendar management, data entry, project management, and workflow organization.
+I'm Oluebubechi, a Virtual Executive Assistant who helps Executives and Business Owners stay organized, manage priorities and operate more efficiently. Through efficient calendar management, meeting coordination, travel planning, inbox organization, and administrative support, I create a system that streamline operations and save valuable time. My goal is to provide proactive support that keeps businesses running smoothly and allows leaders to focus on high-impact decisions.
+
 ## Skills 
 - Administrative Support 
 - Calendar Management 
