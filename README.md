@@ -12,7 +12,7 @@ I'm Oluebubechi, a Virtual Executive Assistant who helps Executives and Business
 - Workflow Organisation 
 - Documentation
 - Online Research
-- Travel Planning & Coordination
+- Inbox Management
 - Meeting Planning & Coordination 
 - Digital File Organization & Record Management 
 ## Tools Stack
