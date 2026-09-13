@@ -1,5 +1,5 @@
 # Team Business Travel Coordination 
-A Clickup based project designed to 
+A Clickup-based team travel coordination system designed to organize travel plans, accommodations, conference schedules, and pre-departure tasks.
 ## Project Overview 
 This project demonstrates how I use ClickUp to create a structured team travel coordination workflow, covering travel planning, accommodations and logistics, conference scheduling, pre-departure preparation, and final completion.
 ## Tool Used 
